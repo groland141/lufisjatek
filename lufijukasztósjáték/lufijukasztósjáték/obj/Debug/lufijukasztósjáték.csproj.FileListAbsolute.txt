@@ -1,0 +1,16 @@
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\bin\Debug\lufijukasztósjáték.exe.config
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\bin\Debug\lufijukasztósjáték.exe
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\bin\Debug\lufijukasztósjáték.pdb
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\lufijukasztósjáték.csprojAssemblyReference.cache
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\MainWindow.g.cs
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\App.g.cs
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\lufijukasztósjáték_Content.g.cs
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\lufijukasztósjáték_MarkupCompile.cache
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\lufijukasztósjáték_MarkupCompile.lref
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\MainWindow.baml
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\lufijukasztósjáték.g.resources
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\lufijukasztósjáték.Properties.Resources.resources
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\lufijukasztósjáték.csproj.GenerateResource.cache
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\lufijukasztósjáték.csproj.CoreCompileInputs.cache
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\lufijukasztósjáték.exe
+D:\Házik\Házik\komplex prog\lufijukasztósjáték\lufijukasztósjáték\obj\Debug\lufijukasztósjáték.pdb
